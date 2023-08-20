@@ -1,0 +1,23 @@
+.like{
+    margin-left: 45px;
+}
+
+.dislike
+{
+    margin-left: 45px;
+}
+
+.cartadd{
+    margin-left: 50px;
+}
+
+.rating{
+    margin-left: 50px;
+}
+
+.prod-rating{
+    background-color:rgb(253 196 196);
+    height: 99px;
+    width: 52px;
+    border-radius: 4px;
+}
